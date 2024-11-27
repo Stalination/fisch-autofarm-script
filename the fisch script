@@ -1,5 +1,5 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CupPink/CupPinkHub/main/CupPinkHub.lua", true))()
 local Window = Rayfield:CreateWindow({
    Name = "sigma fisch script by decryp1",
    LoadingTitle = "very sigma script",
